@@ -1,5 +1,4 @@
-# alts-ejector
+# 🚀 This project has moved
 
-This project has moved! 🚀  
-Check out the updated version here:  
-👉 [https://github.com/justinsudev/alts-ejector](https://github.com/justinsudev/alts-ejector)
+You can now find the updated repository here:  
+**[github.com/justinsudev/alts-ejector](https://github.com/justinsudev/alts-ejector)**
